@@ -1,0 +1,101 @@
+"Provincia","Regione","Alunni Totali","Percentuale Alunni ITA","Percentuale Alunni NITA"
+"Agrigento","Sicilia",19090,96.71,3.29
+"Alessandria","Piemonte",15306,85.4,14.6
+"Ancona","Marche",22482,89.96,10.04
+"Arezzo","Toscana",16274,88.93,11.07
+"Ascoli Piceno","Marche",16771,90.26,9.74
+"Asti","Piemonte",7341,85.18,14.82
+"Avellino","Campania",16418,97.11,2.89
+"Bari","Puglia",59898,96.39,3.61
+"Barletta-Andria-Trani","Puglia",17645,97.42,2.58
+"Belluno","Veneto",7421,93.95,6.05
+"Benevento","Campania",12687,97.4,2.6
+"Bergamo","Lombardia",43955,87.13,12.87
+"Biella","Piemonte",6135,94.18,5.82
+"Bologna","Emilia-Romagna",39349,85.74,14.26
+"Brescia","Lombardia",48642,85.8,14.2
+"Brindisi","Puglia",17390,97.32,2.68
+"Cagliari","Sardegna",30723,97.36,2.64
+"Caltanissetta","Sicilia",12762,97.79,2.21
+"Campobasso","Molise",9470,97.38,2.62
+"Caserta","Campania",49216,95.69,4.31
+"Catania","Sicilia",50235,97.14,2.86
+"Catanzaro","Calabria",15655,95.63,4.37
+"Chieti","Abruzzo",15569,94.37,5.63
+"Como","Lombardia",17869,89.33,10.67
+"Cosenza","Calabria",30514,95.15,4.85
+"Cremona","Lombardia",15697,84.7,15.3
+"Crotone","Calabria",8168,96.89,3.11
+"Cuneo","Piemonte",24907,90.16,9.84
+"Enna","Sicilia",6816,97.99,2.01
+"Ferrara","Emilia-Romagna",16130,85.94,14.06
+"Firenze","Toscana",41403,85.42,14.58
+"Foggia","Puglia",29388,96.69,3.31
+"Frosinone","Lazio",21663,95.08,4.92
+"Genova","Liguria",32054,86.62,13.38
+"Gorizia","Friuli-Venezia Giulia",5633,85.74,14.26
+"Grosseto","Toscana",9596,89.44,10.56
+"Imperia","Liguria",7851,84.23,15.77
+"Isernia","Molise",2917,96.23,3.77
+"L'Aquila","Abruzzo",12057,91.5,8.5
+"La Spezia","Liguria",8653,87.55,12.45
+"Latina","Lazio",25237,92.73,7.27
+"Lecce","Puglia",36143,96.95,3.05
+"Lecco","Lombardia",12896,91.68,8.32
+"Livorno","Toscana",14475,90.58,9.42
+"Lodi","Lombardia",9812,86.76,13.24
+"Lucca","Toscana",16806,90.94,9.06
+"Macerata","Marche",14828,89.9,10.1
+"Mantova","Lombardia",15187,86.19,13.81
+"Massa-Carrara","Toscana",8224,91.61,8.39
+"Matera","Basilicata",9921,93.72,6.28
+"Messina","Sicilia",25846,94.99,5.01
+"Milano","Lombardia",112941,83.5,16.5
+"Modena","Emilia-Romagna",35569,85.62,14.38
+"Monza e della Brianza","Lombardia",30915,89.34,10.66
+"Napoli","Campania",156547,97.21,2.79
+"Novara","Piemonte",14045,88.02,11.98
+"Nuoro","Sardegna",8841,98.01,1.99
+"Oristano","Sardegna",6064,98.45,1.55
+"Padova","Veneto",37325,88.9,11.1
+"Palermo","Sicilia",52910,97.06,2.94
+"Parma","Emilia-Romagna",20849,84.08,15.92
+"Pavia","Lombardia",19476,84.07,15.93
+"Perugia","Umbria",29716,87.98,12.02
+"Pescara","Abruzzo",15316,94.7,5.3
+"Piacenza","Emilia-Romagna",12241,82.8,17.2
+"Pisa","Toscana",17791,89.46,10.54
+"Pistoia","Toscana",13588,87.21,12.79
+"Pordenone","Friuli-Venezia Giulia",13388,88.02,11.98
+"Potenza","Basilicata",15774,96.83,3.17
+"Prato","Toscana",12559,75.64,24.36
+"Ragusa","Sicilia",15056,90.87,9.13
+"Ravenna","Emilia-Romagna",16636,87.35,12.65
+"Reggio Calabria","Calabria",26660,94.7,5.3
+"Reggio Emilia","Emilia-Romagna",22578,86.25,13.75
+"Rieti","Lazio",6776,90.51,9.49
+"Rimini","Emilia-Romagna",14999,84.79,15.21
+"Roma","Lazio",176941,89.97,10.03
+"Rovigo","Veneto",8462,89.78,10.22
+"Salerno","Campania",51352,96,4
+"Sassari","Sardegna",21254,96.29,3.71
+"Savona","Liguria",10749,89.49,10.51
+"Siena","Toscana",12451,87.79,12.21
+"Siracusa","Sicilia",17714,96.8,3.2
+"Sondrio","Lombardia",7714,94.26,5.74
+"Taranto","Puglia",26512,98.07,1.93
+"Teramo","Abruzzo",11574,92.07,7.93
+"Terni","Umbria",9637,88.38,11.62
+"Torino","Piemonte",89889,87.79,12.21
+"Trapani","Sicilia",19695,95.83,4.17
+"Treviso","Veneto",37788,89.43,10.57
+"Trieste","Friuli-Venezia Giulia",8548,91.11,8.89
+"Udine","Friuli-Venezia Giulia",20424,90.22,9.78
+"Varese","Lombardia",38196,89.19,10.81
+"Venezia","Veneto",31713,88.39,11.61
+"Verbano-Cusio-Ossola","Piemonte",7124,92.97,7.03
+"Vercelli","Piemonte",7005,88.67,11.33
+"Verona","Veneto",35711,86.51,13.49
+"Vibo Valentia","Calabria",7803,95.77,4.23
+"Vicenza","Veneto",39187,90.26,9.74
+"Viterbo","Lazio",13089,90.69,9.31
