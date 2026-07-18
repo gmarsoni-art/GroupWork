@@ -11,4 +11,13 @@ if ! git pull; then
 fi
 
 echo
+echo "=== download tabelle da S3 ==="
+if ! python3 SCRIPT/DownloadS3.py; then
+    echo
+    echo "Avviso: download S3 non riuscito (lab spento o credenziali scadute?)."
+    echo "Git e' comunque allineato: puoi lavorare e riprovare con:"
+    echo "   python3 SCRIPT/DownloadS3.py"
+fi
+
+echo
 echo "Tutto allineato. Buon lavoro!"

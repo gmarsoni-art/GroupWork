@@ -17,5 +17,15 @@ if errorlevel 1 (
 )
 
 echo.
+echo === download tabelle da S3 ===
+py SCRIPT\DownloadS3.py
+if errorlevel 1 (
+    echo.
+    echo Avviso: download S3 non riuscito (lab spento o credenziali scadute?).
+    echo Git e' comunque allineato: puoi lavorare e riprovare piu' tardi con:
+    echo    py SCRIPT\DownloadS3.py
+)
+
+echo.
 echo Tutto allineato. Buon lavoro!
 pause
