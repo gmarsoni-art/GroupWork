@@ -1,0 +1,6 @@
+# KNIME: metadati locali del workspace (si rigenerano da soli)
+.metadata/
+
+# Python
+__pycache__/
+*.pyc

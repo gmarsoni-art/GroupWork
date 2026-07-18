@@ -1,0 +1,97 @@
+"Regione","Provincia","ATA titolari","ATA supplenti","Totale ATA","Percentuale ATA titolari","Percentuali ATA Supplenti"
+"Abruzzo","Chieti",1327,374,1701,78.01,21.99
+"Abruzzo","Pescara",1107,291,1398,79.18,20.82
+"Abruzzo","Teramo",1000,302,1302,76.8,23.2
+"Basilicata","Matera",748,250,998,74.95,25.05
+"Basilicata","Potenza",1510,499,2009,75.16,24.84
+"Calabria","Catanzaro",1632,255,1887,86.49,13.51
+"Calabria","Cosenza",3038,410,3448,88.11,11.89
+"Calabria","Crotone",803,123,926,86.72,13.28
+"Calabria","Reggio Calabria",2410,92,2502,96.32,3.68
+"Calabria","Vibo Valentia",807,30,837,96.42,3.58
+"Campania","Avellino",1672,249,1921,87.04,12.96
+"Campania","Benevento",1160,183,1343,86.37,13.63
+"Campania","Caserta",3590,225,3815,94.1,5.9
+"Campania","Napoli",11096,1411,12507,88.72,11.28
+"Campania","Salerno",4185,427,4612,90.74,9.26
+"Emilia-Romagna","Bologna",2401,996,3397,70.68,29.32
+"Emilia-Romagna","Ferrara",898,436,1334,67.32,32.68
+"Emilia-Romagna","Modena",1877,1061,2938,63.89,36.11
+"Emilia-Romagna","Parma",1186,695,1881,63.05,36.95
+"Emilia-Romagna","Piacenza",759,447,1206,62.94,37.06
+"Emilia-Romagna","Ravenna",972,501,1473,65.99,34.01
+"Emilia-Romagna","Reggio Emilia",1394,700,2094,66.57,33.43
+"Emilia-Romagna","Rimini",844,463,1307,64.58,35.42
+"Friuli-Venezia Giulia","Gorizia",452,171,623,72.55,27.45
+"Friuli-Venezia Giulia","Pordenone",813,363,1176,69.13,30.87
+"Friuli-Venezia Giulia","Trieste",603,228,831,72.56,27.44
+"Friuli-Venezia Giulia","Udine",1613,556,2169,74.37,25.63
+"Lazio","Frosinone",1796,422,2218,80.97,19.03
+"Lazio","Latina",1924,679,2603,73.91,26.09
+"Lazio","Rieti",683,241,924,73.92,26.08
+"Lazio","Roma",10630,3946,14576,72.93,27.07
+"Lazio","Viterbo",928,363,1291,71.88,28.12
+"Liguria","Genova",2041,808,2849,71.64,28.36
+"Liguria","Imperia",616,212,828,74.4,25.6
+"Liguria","La Spezia",634,173,807,78.56,21.44
+"Liguria","Savona",748,260,1008,74.21,25.79
+"Lombardia","Bergamo",2879,1050,3929,73.28,26.72
+"Lombardia","Brescia",3186,1391,4577,69.61,30.39
+"Lombardia","Como",1445,513,1958,73.8,26.2
+"Lombardia","Cremona",1062,408,1470,72.24,27.76
+"Lombardia","Lecco",875,362,1237,70.74,29.26
+"Lombardia","Lodi",695,240,935,74.33,25.67
+"Lombardia","Mantova",1169,484,1653,70.72,29.28
+"Lombardia","Milano",7119,2772,9891,71.97,28.03
+"Lombardia","Pavia",1433,434,1867,76.75,23.25
+"Lombardia","Sondrio",631,270,901,70.03,29.97
+"Lombardia","Varese",2229,781,3010,74.05,25.95
+"Marche","Ancona",1600,638,2238,71.49,28.51
+"Marche","Ascoli Piceno",795,290,1085,73.27,26.73
+"Marche","Fermo",465,253,718,64.76,35.24
+"Marche","Macerata",1092,447,1539,70.96,29.04
+"Molise","Campobasso",840,272,1112,75.54,24.46
+"Molise","Isernia",278,99,377,73.74,26.26
+"Piemonte","Alessandria",1098,514,1612,68.11,31.89
+"Piemonte","Asti",568,314,882,64.4,35.6
+"Piemonte","Biella",441,308,749,58.88,41.12
+"Piemonte","Cuneo",1746,1005,2751,63.47,36.53
+"Piemonte","Novara",993,498,1491,66.6,33.4
+"Piemonte","Torino",6246,2738,8984,69.52,30.48
+"Piemonte","Vercelli",490,327,817,59.98,40.02
+"Puglia","Bari",3868,1103,4971,77.81,22.19
+"Puglia","Brindisi",1198,325,1523,78.66,21.34
+"Puglia","Foggia",2279,411,2690,84.72,15.28
+"Puglia","Lecce",2610,478,3088,84.52,15.48
+"Puglia","Taranto",2016,383,2399,84.04,15.96
+"Sardegna","Cagliari",1329,536,1865,71.26,28.74
+"Sardegna","Nuoro",860,273,1133,75.9,24.1
+"Sardegna","Oristano",525,209,734,71.53,28.47
+"Sardegna","Sassari",1704,524,2228,76.48,23.52
+"Sicilia","Agrigento",1722,68,1790,96.2,3.8
+"Sicilia","Caltanissetta",1096,123,1219,89.91,10.09
+"Sicilia","Catania",3841,994,4835,79.44,20.56
+"Sicilia","Enna",727,143,870,83.56,16.44
+"Sicilia","Messina",2308,659,2967,77.79,22.21
+"Sicilia","Palermo",4505,1089,5594,80.53,19.47
+"Sicilia","Ragusa",1183,352,1535,77.07,22.93
+"Sicilia","Siracusa",1613,352,1965,82.09,17.91
+"Sicilia","Trapani",1721,227,1948,88.35,11.65
+"Toscana","Arezzo",1178,392,1570,75.03,24.97
+"Toscana","Firenze",2512,983,3495,71.87,28.13
+"Toscana","Grosseto",703,276,979,71.81,28.19
+"Toscana","Livorno",937,275,1212,77.31,22.69
+"Toscana","Lucca",1213,388,1601,75.77,24.23
+"Toscana","Pisa",1172,418,1590,73.71,26.29
+"Toscana","Pistoia",911,300,1211,75.23,24.77
+"Toscana","Prato",757,310,1067,70.95,29.05
+"Toscana","Siena",769,325,1094,70.29,29.71
+"Umbria","Perugia",2309,741,3050,75.7,24.3
+"Umbria","Terni",634,231,865,73.29,26.71
+"Veneto","Belluno",674,368,1042,64.68,35.32
+"Veneto","Padova",2341,840,3181,73.59,26.41
+"Veneto","Rovigo",649,260,909,71.4,28.6
+"Veneto","Treviso",2369,888,3257,72.74,27.26
+"Veneto","Venezia",2215,798,3013,73.51,26.49
+"Veneto","Verona",2245,785,3030,74.09,25.91
+"Veneto","Vicenza",2350,962,3312,70.95,29.05
