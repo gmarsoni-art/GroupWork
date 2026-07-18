@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-    <entry key="created_by" type="xstring" value="5.12.0.v202606180846"/>
+    <entry key="created_by" type="xstring" value="5.11.1.v202606091016"/>
     <entry key="created_by_nightly" type="xboolean" value="false"/>
     <entry key="version" type="xstring" value="5.1.0"/>
     <entry key="name" type="xstring" isnull="true" value=""/>
     <config key="authorInformation">
         <entry key="authored-by" type="xstring" value="Leonardo"/>
         <entry key="authored-when" type="xstring" value="2026-07-10 09:32:14 +0200"/>
-        <entry key="lastEdited-by" type="xstring" value="giova"/>
-        <entry key="lastEdited-when" type="xstring" value="2026-07-18 04:58:58 +0200"/>
+        <entry key="lastEdited-by" type="xstring" value="Leonardo"/>
+        <entry key="lastEdited-when" type="xstring" value="2026-07-18 13:00:35 +0200"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="IDLE"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="ERROR"/>
-        <entry key="message" type="xstring" value="Contains an unconnected node (&quot;Row Filter #44&quot;)"/>
-        <config key="resolutions">
-            <entry key="array-size" type="xint" value="2"/>
-            <entry key="0" type="xstring" value="Properly connect the node(s)."/>
-            <entry key="1" type="xstring" value="Delete unconnected node(s) from inner workflow."/>
-        </config>
-    </config>
     <config key="workflow_credentials"/>
     <config key="nodes">
         <config key="node_1">

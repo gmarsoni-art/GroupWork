@@ -12,9 +12,8 @@
                     <entry key="filterMode" type="xstring" value="FILE"/>
                     <config key="path">
                         <entry key="location_present" type="xboolean" value="true"/>
-                        <entry key="file_system_type" type="xstring" value="RELATIVE"/>
-                        <entry key="file_system_specifier" type="xstring" value="knime.space"/>
-                        <entry key="path" type="xstring" value="DATA/DATA_RAW/ALUSECGRADOINDSTA20242520250831.csv"/>
+                        <entry key="file_system_type" type="xstring" value="LOCAL"/>
+                        <entry key="path" type="xstring" value="C:\Users\Leonardo\Desktop\Cartella scuola\Dati grezzi\ALUSECGRADOINDSTA20242520250831.csv"/>
                     </config>
                     <entry key="includeSubfolders" type="xboolean" value="false"/>
                     <config key="filters">
@@ -131,11 +130,16 @@
                 </config>
             </config>
         </config>
-        <entry key="sourceId_Internals" type="xstring" value="DATA/DATA_RAW/ALUSECGRADOINDSTA20242520250831.csv"/>
+        <entry key="sourceId_Internals" type="xstring" value="C:\Users\Leonardo\Desktop\Cartella scuola\Dati grezzi\ALUSECGRADOINDSTA20242520250831.csv"/>
         <config key="transformationParameters">
             <config key="specs">
                 <config key="0">
-                    <entry key="sourceIdentifier" type="xstring" value="DATA/DATA_RAW/ALUSECGRADOINDSTA20242520250831.csv"/>
+                    <config key="fsLocation">
+                        <entry key="location_present" type="xboolean" value="true"/>
+                        <entry key="file_system_type" type="xstring" value="LOCAL"/>
+                        <entry key="path" type="xstring" value="C:\Users\Leonardo\Desktop\Cartella scuola\Dati grezzi\ALUSECGRADOINDSTA20242520250831.csv"/>
+                    </config>
+                    <entry key="sourceIdentifier" type="xstring" value="C:\Users\Leonardo\Desktop\Cartella scuola\Dati grezzi\ALUSECGRADOINDSTA20242520250831.csv"/>
                     <config key="spec">
                         <config key="0">
                             <entry key="name" type="xstring" value="ANNOSCOLASTICO"/>
@@ -182,12 +186,6 @@
                             <entry key="type" type="xstring" value="java.lang.Integer"/>
                             <entry key="hasType" type="xboolean" value="true"/>
                         </config>
-                    </config>
-                    <config key="fsLocation">
-                        <entry key="location_present" type="xboolean" value="true"/>
-                        <entry key="file_system_type" type="xstring" value="RELATIVE"/>
-                        <entry key="file_system_specifier" type="xstring" value="knime.space"/>
-                        <entry key="path" type="xstring" value="DATA/DATA_RAW/ALUSECGRADOINDSTA20242520250831.csv"/>
                     </config>
                 </config>
             </config>
@@ -490,36 +488,33 @@
         <config key="styles"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <entry key="factory" type="xstring" value="org.knime.base.node.io.filehandling.csv.reader.CSVTableReaderNodeFactory"/>
     <entry key="node-name" type="xstring" value="CSV Reader"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.12.0.v202606261225"/>
+    <entry key="node-bundle-version" type="xstring" value="5.11.0.v202602201626"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.12.0.v202606261225"/>
+    <entry key="node-feature-version" type="xstring" value="5.11.0.v202602211509"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
         <config key="Data Table"/>
     </config>
     <entry key="name" type="xstring" value="CSV Reader"/>
-    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
         <config key="port_1">
             <entry key="index" type="xint" value="1"/>
-            <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-            <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 64102, Cols: 9"/>
-            <entry key="port_dir_location" type="xstring" value="port_1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5484a424-7ee4-47b5-bc28-12088eb591e4"/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
     </config>
 </config>

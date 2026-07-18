@@ -135,6 +135,12 @@
         <config key="transformationParameters">
             <config key="specs">
                 <config key="0">
+                    <config key="fsLocation">
+                        <entry key="location_present" type="xboolean" value="true"/>
+                        <entry key="file_system_type" type="xstring" value="RELATIVE"/>
+                        <entry key="file_system_specifier" type="xstring" value="knime.space"/>
+                        <entry key="path" type="xstring" value="DATA/DATA_RAW/ATATIT20242520250831.csv"/>
+                    </config>
                     <entry key="sourceIdentifier" type="xstring" value="DATA/DATA_RAW/ATATIT20242520250831.csv"/>
                     <config key="spec">
                         <config key="0">
@@ -162,12 +168,6 @@
                             <entry key="type" type="xstring" value="java.lang.Integer"/>
                             <entry key="hasType" type="xboolean" value="true"/>
                         </config>
-                    </config>
-                    <config key="fsLocation">
-                        <entry key="location_present" type="xboolean" value="true"/>
-                        <entry key="file_system_type" type="xstring" value="RELATIVE"/>
-                        <entry key="file_system_specifier" type="xstring" value="knime.space"/>
-                        <entry key="path" type="xstring" value="DATA/DATA_RAW/ATATIT20242520250831.csv"/>
                     </config>
                 </config>
             </config>
@@ -356,11 +356,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.12.0.v202606261225"/>
+    <entry key="node-bundle-version" type="xstring" value="5.11.0.v202602201626"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.12.0.v202606261225"/>
+    <entry key="node-feature-version" type="xstring" value="5.11.0.v202602211509"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
@@ -380,6 +380,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="c9b20098-20d8-43f7-ad22-a857a46365c0"/>
+        <entry key="file_store_id" type="xstring" value="5a094340-2259-4211-a58d-34538318d675"/>
     </config>
 </config>

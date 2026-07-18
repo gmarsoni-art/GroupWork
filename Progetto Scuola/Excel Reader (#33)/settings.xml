@@ -451,20 +451,16 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="CONFIGURED"/>
-    <config key="nodecontainer_message">
-        <entry key="type" type="xstring" value="ERROR"/>
-        <entry key="message" type="xstring" value="Execute failed: The specified file C:\Users\Leonardo\Desktop\Cartella scuola\Dati grezzi\SG1-PA-REL-GPS_Consistenza_Lombardia_20220422.xlsx does not exist."/>
-    </config>
     <entry key="factory" type="xstring" value="org.knime.ext.poi3.node.io.filehandling.excel.reader.ExcelTableReaderNodeFactory"/>
     <entry key="node-name" type="xstring" value="Excel Reader"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME POI (Excel) Plug-in"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.poi3"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.12.0.v202604281119"/>
+    <entry key="node-bundle-version" type="xstring" value="5.11.0.v202602181514"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Excel Support"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.ext.poi.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.12.0.v202605041104"/>
+    <entry key="node-feature-version" type="xstring" value="5.11.0.v202602181514"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
