@@ -391,11 +391,11 @@
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-bundle-version" type="xstring" value="5.11.0.v202602201626"/>
+    <entry key="node-bundle-version" type="xstring" value="5.12.0.v202606261225"/>
     <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
     <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-    <entry key="node-feature-version" type="xstring" value="5.11.0.v202602211509"/>
+    <entry key="node-feature-version" type="xstring" value="5.12.0.v202606261225"/>
     <config key="factory_settings"/>
     <config key="node_creation_config">
         <config key="File System Connection"/>
@@ -415,6 +415,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="3ca338a4-ed4d-4cd5-a29a-6c80f93946e7"/>
+        <entry key="file_store_id" type="xstring" value="f6b3a559-6fcd-4832-96e1-819fdc73a503"/>
     </config>
 </config>
