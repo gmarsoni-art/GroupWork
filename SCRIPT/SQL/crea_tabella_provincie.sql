@@ -74,7 +74,6 @@ CREATE EXTERNAL TABLE scuola.provincie (
   youth_s_employment_rate_15_29_years_old double,
   youth_s_non_participation_rate double,
   codice_provincia string,
-  provincia_2 string,
   anno int,
   pop25y0 int,
   pop25y1 int,
@@ -96,10 +95,10 @@ CREATE EXTERNAL TABLE scuola.provincie (
   pop25y17 int,
   pop25y18 int,
   pop25y19 int,
-  pop25y20 int
+  pop25y20 int,
+  area string
 )
 ROW FORMAT DELIMITED
 FIELDS TERMINATED BY ','
 LOCATION 's3://groupworksistemascolastico/tables/provincie/'
 TBLPROPERTIES ('skip.header.line.count' = '1');
- 
