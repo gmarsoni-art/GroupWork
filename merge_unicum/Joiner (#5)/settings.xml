@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack"/>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <entry key="compositionMode" type="xstring" value="MATCH_ALL"/>
+        <config key="matchingCriteria">
+            <config key="0">
+                <config key="leftTableColumnV2">
+                    <entry key="regularChoice" type="xstring" value="Provincia"/>
+                    <entry key="specialChoice_Internals" type="xstring" isnull="true" value=""/>
+                </config>
+                <config key="rightTableColumnV2">
+                    <entry key="regularChoice" type="xstring" value="Provincia"/>
+                    <entry key="specialChoice_Internals" type="xstring" isnull="true" value=""/>
+                </config>
+            </config>
+        </config>
+        <entry key="dataCellComparisonMode" type="xstring" value="STRICT"/>
+        <entry key="includeMatchesInOutput" type="xboolean" value="true"/>
+        <entry key="includeLeftUnmatchedInOutput" type="xboolean" value="false"/>
+        <entry key="includeRightUnmatchedInOutput" type="xboolean" value="false"/>
+        <config key="leftColumnSelectionConfigV2">
+            <entry key="mode" type="xstring" value="MANUAL"/>
+            <config key="patternFilter">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="isCaseSensitive" type="xboolean" value="false"/>
+                <entry key="isInverted" type="xboolean" value="false"/>
+            </config>
+            <config key="manualFilter">
+                <config key="manuallySelected">
+                    <entry key="array-size" type="xint" value="197"/>
+                    <entry key="0" type="xstring" value="Provincia"/>
+                    <entry key="1" type="xstring" value="Regione"/>
+                    <entry key="2" type="xstring" value="Sigla Provincia"/>
+                    <entry key="3" type="xstring" value="Alunni Totali"/>
+                    <entry key="4" type="xstring" value="Percentuale Alunni ITA"/>
+                    <entry key="5" type="xstring" value="Percentuale Alunni NITA"/>
+                    <entry key="6" type="xstring" value="Totale alunni Femmine"/>
+                    <entry key="7" type="xstring" value="Totale Alunni Maschi"/>
+                    <entry key="8" type="xstring" value="Media Alunni per classe"/>
+                    <entry key="9" type="xstring" value="Totale Classi"/>
+                    <entry key="10" type="xstring" value="Percentuali Alunni Femmine"/>
+                    <entry key="11" type="xstring" value="Percentuali Alunni Maschi"/>
+                    <entry key="12" type="xstring" value="ATA titolari"/>
+                    <entry key="13" type="xstring" value="ATA supplenti"/>
+                    <entry key="14" type="xstring" value="Totale ATA"/>
+                    <entry key="15" type="xstring" value="Percentuale ATA titolari"/>
+                    <entry key="16" type="xstring" value="Percentuali ATA Supplenti"/>
+                    <entry key="17" type="xstring" value="Docenti Totali"/>
+                    <entry key="18" type="xstring" value="Docenti titolari"/>
+                    <entry key="19" type="xstring" value="Docenti Supplenti"/>
+                    <entry key="20" type="xstring" value="Percentuali Docenti Titolari"/>
+                    <entry key="21" type="xstring" value="Percentuali Docenti Supplenti"/>
+                    <entry key="22" type="xstring" value="Posti vacanti per Docente Normale"/>
+                    <entry key="23" type="xstring" value="Posti vacanti per Docente Sostegno"/>
+                    <entry key="24" type="xstring" value="Totale Posti vacanti"/>
+                    <entry key="25" type="xstring" value="Punteggio Invalsi Inglese Listening"/>
+                    <entry key="26" type="xstring" value="Punteggio Invalsi Inglese Reading"/>
+                    <entry key="27" type="xstring" value="Punteggio Invalsi Italiano"/>
+                    <entry key="28" type="xstring" value="Punteggio Invalsi Matematica)"/>
+                    <entry key="29" type="xstring" value="Participation in life-long learning"/>
+                    <entry key="30" type="xstring" value="Participation in the school system of children aged 4-5"/>
+                    <entry key="31" type="xstring" value="People having completed tertiary education (ISCED 5 6 7 or 8)"/>
+                    <entry key="32" type="xstring" value="People not in education employment or training (NEET)"/>
+                    <entry key="33" type="xstring" value="People with at least upper secondary education level (25-64 years old)"/>
+                    <entry key="34" type="xstring" value="Average annual per capita amount of pension income"/>
+                    <entry key="35" type="xstring" value="Average annual salary of employees"/>
+                    <entry key="36" type="xstring" value="Average disposable income per capita"/>
+                    <entry key="37" type="xstring" value="Bad loan entry rate of bank loans to households"/>
+                    <entry key="38" type="xstring" value="Brain circulation (Italians 25-39 years old)"/>
+                    <entry key="39" type="xstring" value="Burglaries reported"/>
+                    <entry key="40" type="xstring" value="Deadly crimes reported"/>
+                    <entry key="41" type="xstring" value="Electricity from renewable sources"/>
+                    <entry key="42" type="xstring" value="Employment rate (20-64 years old)"/>
+                    <entry key="43" type="xstring" value="Hospital patient emigration to a different region"/>
+                    <entry key="44" type="xstring" value="Inadequate level of literacy (students in grade 8)"/>
+                    <entry key="45" type="xstring" value="Inadequate level of numeracy (students in grade 8)"/>
+                    <entry key="46" type="xstring" value="Intentional homicide rate"/>
+                    <entry key="47" type="xstring" value="Irregularities in electric power distribution"/>
+                    <entry key="48" type="xstring" value="Life expectancy at birth"/>
+                    <entry key="49" type="xstring" value="Medical specialists"/>
+                    <entry key="50" type="xstring" value="Municipal councilors under the age of 40"/>
+                    <entry key="51" type="xstring" value="Municipal waste generated"/>
+                    <entry key="52" type="xstring" value="Non-participation rate"/>
+                    <entry key="53" type="xstring" value="Overall Fixed Very High Capacity Network (VHCN) coverage"/>
+                    <entry key="54" type="xstring" value="PM10 Annual average concentration"/>
+                    <entry key="55" type="xstring" value="PM2.5 Annual average concentration"/>
+                    <entry key="56" type="xstring" value="Paid days in the year (employees)"/>
+                    <entry key="57" type="xstring" value="Pensioners with a low pension income"/>
+                    <entry key="58" type="xstring" value="Pick-pocketings reported"/>
+                    <entry key="59" type="xstring" value="Prison density"/>
+                    <entry key="60" type="xstring" value="Road accidents mortality rate (15-34 years old)"/>
+                    <entry key="61" type="xstring" value="Road mortality in non-urban roads"/>
+                    <entry key="62" type="xstring" value="Robberies reported"/>
+                    <entry key="63" type="xstring" value="Seat-Km of public transport networks"/>
+                    <entry key="64" type="xstring" value="Separate collection of municipal waste"/>
+                    <entry key="65" type="xstring" value="Separate collection service for municipal waste"/>
+                    <entry key="66" type="xstring" value="Soil sealing from artificial land cover"/>
+                    <entry key="67" type="xstring" value="Spread of agritourism farms"/>
+                    <entry key="68" type="xstring" value="Urban green"/>
+                    <entry key="69" type="xstring" value="Voter turnout (Regional Councils)"/>
+                    <entry key="70" type="xstring" value="Women municipal councilors"/>
+                    <entry key="71" type="xstring" value="Youth's employment rate (15-29 years old)"/>
+                    <entry key="72" type="xstring" value="Youth's non-participation rate"/>
+                    <entry key="73" type="xstring" value="codice_provincia"/>
+                    <entry key="74" type="xstring" value="anno"/>
+                    <entry key="75" type="xstring" value="Pop25Y0"/>
+                    <entry key="76" type="xstring" value="Pop25Y1"/>
+                    <entry key="77" type="xstring" value="Pop25Y2"/>
+                    <entry key="78" type="xstring" value="Pop25Y3"/>
+                    <entry key="79" type="xstring" value="Pop25Y4"/>
+                    <entry key="80" type="xstring" value="Pop25Y5"/>
+                    <entry key="81" type="xstring" value="Pop25Y6"/>
+                    <entry key="82" type="xstring" value="Pop25Y7"/>
+                    <entry key="83" type="xstring" value="Pop25Y8"/>
+                    <entry key="84" type="xstring" value="Pop25Y9"/>
+                    <entry key="85" type="xstring" value="Pop25Y10"/>
+                    <entry key="86" type="xstring" value="Pop25Y11"/>
+                    <entry key="87" type="xstring" value="Pop25Y12"/>
+                    <entry key="88" type="xstring" value="Pop25Y13"/>
+                    <entry key="89" type="xstring" value="Pop25Y14"/>
+                    <entry key="90" type="xstring" value="Pop25Y15"/>
+                    <entry key="91" type="xstring" value="Pop25Y16"/>
+                    <entry key="92" type="xstring" value="Pop25Y17"/>
+                    <entry key="93" type="xstring" value="Pop25Y18"/>
+                    <entry key="94" type="xstring" value="Pop25Y19"/>
+                    <entry key="95" type="xstring" value="Pop25Y20"/>
+                    <entry key="96" type="xstring" value="area"/>
+                    <entry key="97" type="xstring" value="Area Geografica"/>
+                    <entry key="98" type="xstring" value="Regione (Right)"/>
+                    <entry key="99" type="xstring" value="Provincia (Right)"/>
+                    <entry key="100" type="xstring" value="Sigla Provincia (Right)"/>
+                    <entry key="101" type="xstring" value="Alunni Totali (Right)"/>
+                    <entry key="102" type="xstring" value="Percentuale Alunni ITA (Right)"/>
+                    <entry key="103" type="xstring" value="Percentuale Alunni NITA (Right)"/>
+                    <entry key="104" type="xstring" value="Totale alunni Femmine (Right)"/>
+                    <entry key="105" type="xstring" value="Totale Alunni Maschi (Right)"/>
+                    <entry key="106" type="xstring" value="Media Alunni per classe (Right)"/>
+                    <entry key="107" type="xstring" value="Totale Classi (Right)"/>
+                    <entry key="108" type="xstring" value="Percentuali Alunni Femmine (Right)"/>
+                    <entry key="109" type="xstring" value="Percentuali Alunni Maschi (Right)"/>
+                    <entry key="110" type="xstring" value="ATA titolari (Right)"/>
+                    <entry key="111" type="xstring" value="ATA supplenti (Right)"/>
+                    <entry key="112" type="xstring" value="Totale ATA (Right)"/>
+                    <entry key="113" type="xstring" value="Percentuale ATA titolari (Right)"/>
+                    <entry key="114" type="xstring" value="Percentuali ATA Supplenti (Right)"/>
+                    <entry key="115" type="xstring" value="Docenti Totali (Right)"/>
+                    <entry key="116" type="xstring" value="Docenti titolari (Right)"/>
+                    <entry key="117" type="xstring" value="Docenti Supplenti (Right)"/>
+                    <entry key="118" type="xstring" value="Percentuali Docenti Titolari (Right)"/>
+                    <entry key="119" type="xstring" value="Percentuali Docenti Supplenti (Right)"/>
+                    <entry key="120" type="xstring" value="Posti vacanti per Docente Normale (Right)"/>
+                    <entry key="121" type="xstring" value="Posti vacanti per Docente Sostegno (Right)"/>
+                    <entry key="122" type="xstring" value="Totale Posti vacanti (Right)"/>
+                    <entry key="123" type="xstring" value="Punteggio Invalsi Inglese Listening (Right)"/>
+                    <entry key="124" type="xstring" value="Punteggio Invalsi Inglese Reading (Right)"/>
+                    <entry key="125" type="xstring" value="Punteggio Invalsi Italiano (Right)"/>
+                    <entry key="126" type="xstring" value="Punteggio Invalsi Matematica) (Right)"/>
+                    <entry key="127" type="xstring" value="Participation in life-long learning (Right)"/>
+                    <entry key="128" type="xstring" value="Participation in the school system of children aged 4-5 (Right)"/>
+                    <entry key="129" type="xstring" value="People having completed tertiary education (ISCED 5 6 7 or 8) (Right)"/>
+                    <entry key="130" type="xstring" value="People not in education employment or training (NEET) (Right)"/>
+                    <entry key="131" type="xstring" value="People with at least upper secondary education level (25-64 years old) (Right)"/>
+                    <entry key="132" type="xstring" value="Average annual per capita amount of pension income (Right)"/>
+                    <entry key="133" type="xstring" value="Average annual salary of employees (Right)"/>
+                    <entry key="134" type="xstring" value="Average disposable income per capita (Right)"/>
+                    <entry key="135" type="xstring" value="Bad loan entry rate of bank loans to households (Right)"/>
+                    <entry key="136" type="xstring" value="Brain circulation (Italians 25-39 years old) (Right)"/>
+                    <entry key="137" type="xstring" value="Burglaries reported (Right)"/>
+                    <entry key="138" type="xstring" value="Deadly crimes reported (Right)"/>
+                    <entry key="139" type="xstring" value="Electricity from renewable sources (Right)"/>
+                    <entry key="140" type="xstring" value="Employment rate (20-64 years old) (Right)"/>
+                    <entry key="141" type="xstring" value="Hospital patient emigration to a different region (Right)"/>
+                    <entry key="142" type="xstring" value="Inadequate level of literacy (students in grade 8) (Right)"/>
+                    <entry key="143" type="xstring" value="Inadequate level of numeracy (students in grade 8) (Right)"/>
+                    <entry key="144" type="xstring" value="Intentional homicide rate (Right)"/>
+                    <entry key="145" type="xstring" value="Irregularities in electric power distribution (Right)"/>
+                    <entry key="146" type="xstring" value="Life expectancy at birth (Right)"/>
+                    <entry key="147" type="xstring" value="Medical specialists (Right)"/>
+                    <entry key="148" type="xstring" value="Municipal councilors under the age of 40 (Right)"/>
+                    <entry key="149" type="xstring" value="Municipal waste generated (Right)"/>
+                    <entry key="150" type="xstring" value="Non-participation rate (Right)"/>
+                    <entry key="151" type="xstring" value="Overall Fixed Very High Capacity Network (VHCN) coverage (Right)"/>
+                    <entry key="152" type="xstring" value="PM10 Annual average concentration (Right)"/>
+                    <entry key="153" type="xstring" value="PM2.5 Annual average concentration (Right)"/>
+                    <entry key="154" type="xstring" value="Paid days in the year (employees) (Right)"/>
+                    <entry key="155" type="xstring" value="Pensioners with a low pension income (Right)"/>
+                    <entry key="156" type="xstring" value="Pick-pocketings reported (Right)"/>
+                    <entry key="157" type="xstring" value="Prison density (Right)"/>
+                    <entry key="158" type="xstring" value="Road accidents mortality rate (15-34 years old) (Right)"/>
+                    <entry key="159" type="xstring" value="Road mortality in non-urban roads (Right)"/>
+                    <entry key="160" type="xstring" value="Robberies reported (Right)"/>
+                    <entry key="161" type="xstring" value="Seat-Km of public transport networks (Right)"/>
+                    <entry key="162" type="xstring" value="Separate collection of municipal waste (Right)"/>
+                    <entry key="163" type="xstring" value="Separate collection service for municipal waste (Right)"/>
+                    <entry key="164" type="xstring" value="Soil sealing from artificial land cover (Right)"/>
+                    <entry key="165" type="xstring" value="Spread of agritourism farms (Right)"/>
+                    <entry key="166" type="xstring" value="Urban green (Right)"/>
+                    <entry key="167" type="xstring" value="Voter turnout (Regional Councils) (Right)"/>
+                    <entry key="168" type="xstring" value="Women municipal councilors (Right)"/>
+                    <entry key="169" type="xstring" value="Youth's employment rate (15-29 years old) (Right)"/>
+                    <entry key="170" type="xstring" value="Youth's non-participation rate (Right)"/>
+                    <entry key="171" type="xstring" value="codice_provincia (Right)"/>
+                    <entry key="172" type="xstring" value="anno (Right)"/>
+                    <entry key="173" type="xstring" value="Pop25Y0 (Right)"/>
+                    <entry key="174" type="xstring" value="Pop25Y1 (Right)"/>
+                    <entry key="175" type="xstring" value="Pop25Y2 (Right)"/>
+                    <entry key="176" type="xstring" value="Pop25Y3 (Right)"/>
+                    <entry key="177" type="xstring" value="Pop25Y4 (Right)"/>
+                    <entry key="178" type="xstring" value="Pop25Y5 (Right)"/>
+                    <entry key="179" type="xstring" value="Pop25Y6 (Right)"/>
+                    <entry key="180" type="xstring" value="Pop25Y7 (Right)"/>
+                    <entry key="181" type="xstring" value="Pop25Y8 (Right)"/>
+                    <entry key="182" type="xstring" value="Pop25Y9 (Right)"/>
+                    <entry key="183" type="xstring" value="Pop25Y10 (Right)"/>
+                    <entry key="184" type="xstring" value="Pop25Y11 (Right)"/>
+                    <entry key="185" type="xstring" value="Pop25Y12 (Right)"/>
+                    <entry key="186" type="xstring" value="Pop25Y13 (Right)"/>
+                    <entry key="187" type="xstring" value="Pop25Y14 (Right)"/>
+                    <entry key="188" type="xstring" value="Pop25Y15 (Right)"/>
+                    <entry key="189" type="xstring" value="Pop25Y16 (Right)"/>
+                    <entry key="190" type="xstring" value="Pop25Y17 (Right)"/>
+                    <entry key="191" type="xstring" value="Pop25Y18 (Right)"/>
+                    <entry key="192" type="xstring" value="Pop25Y19 (Right)"/>
+                    <entry key="193" type="xstring" value="Pop25Y20 (Right)"/>
+                    <entry key="194" type="xstring" value="nr Studenti Superiori"/>
+                    <entry key="195" type="xstring" value="Indice di svantaggio"/>
+                    <entry key="196" type="xstring" value="Stipendio Medio"/>
+                </config>
+                <config key="manuallyDeselected">
+                    <entry key="array-size" type="xint" value="0"/>
+                </config>
+                <entry key="includeUnknownColumns" type="xboolean" value="true"/>
+            </config>
+            <config key="typeFilter">
+                <config key="selectedTypes">
+                    <entry key="array-size" type="xint" value="0"/>
+                </config>
+            </config>
+        </config>
+        <config key="rightColumnSelectionConfigV2">
+            <entry key="mode" type="xstring" value="MANUAL"/>
+            <config key="patternFilter">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="isCaseSensitive" type="xboolean" value="false"/>
+                <entry key="isInverted" type="xboolean" value="false"/>
+            </config>
+            <config key="manualFilter">
+                <config key="manuallySelected">
+                    <entry key="array-size" type="xint" value="55"/>
+                    <entry key="0" type="xstring" value="Buy Apartment Price | Price per Square Meter to Buy Apartment Outside of Centre"/>
+                    <entry key="1" type="xstring" value="Buy Apartment Price | Price per Square Meter to Buy Apartment in City Centre"/>
+                    <entry key="2" type="xstring" value="Childcare | International Primary School, Annual Tuition per Child"/>
+                    <entry key="3" type="xstring" value="Childcare | Private Full-Day Preschool or Kindergarten, Monthly Fee per Child"/>
+                    <entry key="4" type="xstring" value="Clothing And Shoes | Jeans (Levi's 501 or Similar)"/>
+                    <entry key="5" type="xstring" value="Clothing And Shoes | Men's Leather Business Shoes"/>
+                    <entry key="6" type="xstring" value="Clothing And Shoes | Nike Running Shoes (Mid-Range)"/>
+                    <entry key="7" type="xstring" value="Clothing And Shoes | Summer Dress in a Chain Store (e.g. Zara or H&amp;M)"/>
+                    <entry key="8" type="xstring" value="Markets | Apples (1 kg)"/>
+                    <entry key="9" type="xstring" value="Markets | Bananas (1 kg)"/>
+                    <entry key="10" type="xstring" value="Markets | Beef Round or Equivalent Back Leg Red Meat (1 kg)"/>
+                    <entry key="11" type="xstring" value="Markets | Bottle of Wine (Mid-Range)"/>
+                    <entry key="12" type="xstring" value="Markets | Bottled Water (1.5 Liter)"/>
+                    <entry key="13" type="xstring" value="Markets | Chicken Fillets (1 kg)"/>
+                    <entry key="14" type="xstring" value="Markets | Cigarettes (Pack of 20, Marlboro)"/>
+                    <entry key="15" type="xstring" value="Markets | Domestic Beer (0.5 Liter Bottle)"/>
+                    <entry key="16" type="xstring" value="Markets | Eggs (12, Large Size)"/>
+                    <entry key="17" type="xstring" value="Markets | Fresh White Bread (500 g Loaf)"/>
+                    <entry key="18" type="xstring" value="Markets | Imported Beer (0.33 Liter Bottle)"/>
+                    <entry key="19" type="xstring" value="Markets | Lettuce (1 Head)"/>
+                    <entry key="20" type="xstring" value="Markets | Local Cheese (1 kg)"/>
+                    <entry key="21" type="xstring" value="Markets | Milk (Regular, 1 Liter)"/>
+                    <entry key="22" type="xstring" value="Markets | Onions (1 kg)"/>
+                    <entry key="23" type="xstring" value="Markets | Oranges (1 kg)"/>
+                    <entry key="24" type="xstring" value="Markets | Potatoes (1 kg)"/>
+                    <entry key="25" type="xstring" value="Markets | Tomatoes (1 kg)"/>
+                    <entry key="26" type="xstring" value="Markets | White Rice (1 kg)"/>
+                    <entry key="27" type="xstring" value="Rent Per Month | 1 Bedroom Apartment Outside of City Centre"/>
+                    <entry key="28" type="xstring" value="Rent Per Month | 1 Bedroom Apartment in City Centre"/>
+                    <entry key="29" type="xstring" value="Rent Per Month | 3 Bedroom Apartment Outside of City Centre"/>
+                    <entry key="30" type="xstring" value="Rent Per Month | 3 Bedroom Apartment in City Centre"/>
+                    <entry key="31" type="xstring" value="Restaurants | Bottled Water (0.33 Liter)"/>
+                    <entry key="32" type="xstring" value="Restaurants | Cappuccino (Regular Size)"/>
+                    <entry key="33" type="xstring" value="Restaurants | Combo Meal at McDonald's (or Equivalent Fast-Food Meal)"/>
+                    <entry key="34" type="xstring" value="Restaurants | Domestic Draft Beer (0.5 Liter)"/>
+                    <entry key="35" type="xstring" value="Restaurants | Imported Beer (0.33 Liter Bottle)"/>
+                    <entry key="36" type="xstring" value="Restaurants | Meal at an Inexpensive Restaurant"/>
+                    <entry key="37" type="xstring" value="Restaurants | Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks)"/>
+                    <entry key="38" type="xstring" value="Restaurants | Soft Drink (Coca-Cola or Pepsi, 0.33 Liter Bottle)"/>
+                    <entry key="39" type="xstring" value="Salaries And Financing | Annual Mortgage Interest Rate (20-Year Fixed, in %)"/>
+                    <entry key="40" type="xstring" value="Salaries And Financing | Average Monthly Net Salary (After Tax)"/>
+                    <entry key="41" type="xstring" value="Sports And Leisure | Cinema Ticket (International Release)"/>
+                    <entry key="42" type="xstring" value="Sports And Leisure | Monthly Fitness Club Membership"/>
+                    <entry key="43" type="xstring" value="Sports And Leisure | Tennis Court Rental (1 Hour, Weekend)"/>
+                    <entry key="44" type="xstring" value="Transportation | Gasoline (1 Liter)"/>
+                    <entry key="45" type="xstring" value="Transportation | Monthly Public Transport Pass (Regular Price)"/>
+                    <entry key="46" type="xstring" value="Transportation | One-Way Ticket (Local Transport)"/>
+                    <entry key="47" type="xstring" value="Transportation | Taxi 1 Hour Waiting (Standard Tariff)"/>
+                    <entry key="48" type="xstring" value="Transportation | Taxi 1 km (Standard Tariff)"/>
+                    <entry key="49" type="xstring" value="Transportation | Taxi Start (Standard Tariff)"/>
+                    <entry key="50" type="xstring" value="Transportation | Toyota Corolla Sedan 1.6 (or Equivalent New Mid-Size Car)"/>
+                    <entry key="51" type="xstring" value="Transportation | Volkswagen Golf 1.5 (or Equivalent New Compact Car)"/>
+                    <entry key="52" type="xstring" value="Utilities (Monthly) | Basic Utilities for 85 m2Apartment (Electricity, Heating, Cooling, Water, Garbage)"/>
+                    <entry key="53" type="xstring" value="Utilities (Monthly) | Broadband Internet (Unlimited Data, 60 Mbps or Higher)"/>
+                    <entry key="54" type="xstring" value="Utilities (Monthly) | Mobile Phone Plan (Monthly, with Calls and 10GB+ Data)"/>
+                </config>
+                <config key="manuallyDeselected">
+                    <entry key="array-size" type="xint" value="100"/>
+                    <entry key="0" type="xstring" value="Area Geografica"/>
+                    <entry key="1" type="xstring" value="Regione"/>
+                    <entry key="2" type="xstring" value="Provincia"/>
+                    <entry key="3" type="xstring" value="Sigla Provincia"/>
+                    <entry key="4" type="xstring" value="Alunni Totali"/>
+                    <entry key="5" type="xstring" value="Percentuale Alunni ITA"/>
+                    <entry key="6" type="xstring" value="Percentuale Alunni NITA"/>
+                    <entry key="7" type="xstring" value="Totale alunni Femmine"/>
+                    <entry key="8" type="xstring" value="Totale Alunni Maschi"/>
+                    <entry key="9" type="xstring" value="Media Alunni per classe"/>
+                    <entry key="10" type="xstring" value="Totale Classi"/>
+                    <entry key="11" type="xstring" value="Percentuali Alunni Femmine"/>
+                    <entry key="12" type="xstring" value="Percentuali Alunni Maschi"/>
+                    <entry key="13" type="xstring" value="ATA titolari"/>
+                    <entry key="14" type="xstring" value="ATA supplenti"/>
+                    <entry key="15" type="xstring" value="Totale ATA"/>
+                    <entry key="16" type="xstring" value="Percentuale ATA titolari"/>
+                    <entry key="17" type="xstring" value="Percentuali ATA Supplenti"/>
+                    <entry key="18" type="xstring" value="Docenti Totali"/>
+                    <entry key="19" type="xstring" value="Docenti titolari"/>
+                    <entry key="20" type="xstring" value="Docenti Supplenti"/>
+                    <entry key="21" type="xstring" value="Percentuali Docenti Titolari"/>
+                    <entry key="22" type="xstring" value="Percentuali Docenti Supplenti"/>
+                    <entry key="23" type="xstring" value="Posti vacanti per Docente Normale"/>
+                    <entry key="24" type="xstring" value="Posti vacanti per Docente Sostegno"/>
+                    <entry key="25" type="xstring" value="Totale Posti vacanti"/>
+                    <entry key="26" type="xstring" value="Punteggio Invalsi Inglese Listening"/>
+                    <entry key="27" type="xstring" value="Punteggio Invalsi Inglese Reading"/>
+                    <entry key="28" type="xstring" value="Punteggio Invalsi Italiano"/>
+                    <entry key="29" type="xstring" value="Punteggio Invalsi Matematica)"/>
+                    <entry key="30" type="xstring" value="Participation in life-long learning"/>
+                    <entry key="31" type="xstring" value="Participation in the school system of children aged 4-5"/>
+                    <entry key="32" type="xstring" value="People having completed tertiary education (ISCED 5 6 7 or 8)"/>
+                    <entry key="33" type="xstring" value="People not in education employment or training (NEET)"/>
+                    <entry key="34" type="xstring" value="People with at least upper secondary education level (25-64 years old)"/>
+                    <entry key="35" type="xstring" value="Average annual per capita amount of pension income"/>
+                    <entry key="36" type="xstring" value="Average annual salary of employees"/>
+                    <entry key="37" type="xstring" value="Average disposable income per capita"/>
+                    <entry key="38" type="xstring" value="Bad loan entry rate of bank loans to households"/>
+                    <entry key="39" type="xstring" value="Brain circulation (Italians 25-39 years old)"/>
+                    <entry key="40" type="xstring" value="Burglaries reported"/>
+                    <entry key="41" type="xstring" value="Deadly crimes reported"/>
+                    <entry key="42" type="xstring" value="Electricity from renewable sources"/>
+                    <entry key="43" type="xstring" value="Employment rate (20-64 years old)"/>
+                    <entry key="44" type="xstring" value="Hospital patient emigration to a different region"/>
+                    <entry key="45" type="xstring" value="Inadequate level of literacy (students in grade 8)"/>
+                    <entry key="46" type="xstring" value="Inadequate level of numeracy (students in grade 8)"/>
+                    <entry key="47" type="xstring" value="Intentional homicide rate"/>
+                    <entry key="48" type="xstring" value="Irregularities in electric power distribution"/>
+                    <entry key="49" type="xstring" value="Life expectancy at birth"/>
+                    <entry key="50" type="xstring" value="Medical specialists"/>
+                    <entry key="51" type="xstring" value="Municipal councilors under the age of 40"/>
+                    <entry key="52" type="xstring" value="Municipal waste generated"/>
+                    <entry key="53" type="xstring" value="Non-participation rate"/>
+                    <entry key="54" type="xstring" value="Overall Fixed Very High Capacity Network (VHCN) coverage"/>
+                    <entry key="55" type="xstring" value="PM10 Annual average concentration"/>
+                    <entry key="56" type="xstring" value="PM2.5 Annual average concentration"/>
+                    <entry key="57" type="xstring" value="Paid days in the year (employees)"/>
+                    <entry key="58" type="xstring" value="Pensioners with a low pension income"/>
+                    <entry key="59" type="xstring" value="Pick-pocketings reported"/>
+                    <entry key="60" type="xstring" value="Prison density"/>
+                    <entry key="61" type="xstring" value="Road accidents mortality rate (15-34 years old)"/>
+                    <entry key="62" type="xstring" value="Road mortality in non-urban roads"/>
+                    <entry key="63" type="xstring" value="Robberies reported"/>
+                    <entry key="64" type="xstring" value="Seat-Km of public transport networks"/>
+                    <entry key="65" type="xstring" value="Separate collection of municipal waste"/>
+                    <entry key="66" type="xstring" value="Separate collection service for municipal waste"/>
+                    <entry key="67" type="xstring" value="Soil sealing from artificial land cover"/>
+                    <entry key="68" type="xstring" value="Spread of agritourism farms"/>
+                    <entry key="69" type="xstring" value="Urban green"/>
+                    <entry key="70" type="xstring" value="Voter turnout (Regional Councils)"/>
+                    <entry key="71" type="xstring" value="Women municipal councilors"/>
+                    <entry key="72" type="xstring" value="Youth's employment rate (15-29 years old)"/>
+                    <entry key="73" type="xstring" value="Youth's non-participation rate"/>
+                    <entry key="74" type="xstring" value="codice_provincia"/>
+                    <entry key="75" type="xstring" value="anno"/>
+                    <entry key="76" type="xstring" value="Pop25Y0"/>
+                    <entry key="77" type="xstring" value="Pop25Y1"/>
+                    <entry key="78" type="xstring" value="Pop25Y2"/>
+                    <entry key="79" type="xstring" value="Pop25Y3"/>
+                    <entry key="80" type="xstring" value="Pop25Y4"/>
+                    <entry key="81" type="xstring" value="Pop25Y5"/>
+                    <entry key="82" type="xstring" value="Pop25Y6"/>
+                    <entry key="83" type="xstring" value="Pop25Y7"/>
+                    <entry key="84" type="xstring" value="Pop25Y8"/>
+                    <entry key="85" type="xstring" value="Pop25Y9"/>
+                    <entry key="86" type="xstring" value="Pop25Y10"/>
+                    <entry key="87" type="xstring" value="Pop25Y11"/>
+                    <entry key="88" type="xstring" value="Pop25Y12"/>
+                    <entry key="89" type="xstring" value="Pop25Y13"/>
+                    <entry key="90" type="xstring" value="Pop25Y14"/>
+                    <entry key="91" type="xstring" value="Pop25Y15"/>
+                    <entry key="92" type="xstring" value="Pop25Y16"/>
+                    <entry key="93" type="xstring" value="Pop25Y17"/>
+                    <entry key="94" type="xstring" value="Pop25Y18"/>
+                    <entry key="95" type="xstring" value="Pop25Y19"/>
+                    <entry key="96" type="xstring" value="Pop25Y20"/>
+                    <entry key="97" type="xstring" value="nr Studenti Superiori"/>
+                    <entry key="98" type="xstring" value="Indice di svantaggio"/>
+                    <entry key="99" type="xstring" value="Stipendio Medio"/>
+                </config>
+                <entry key="includeUnknownColumns" type="xboolean" value="false"/>
+            </config>
+            <config key="typeFilter">
+                <config key="selectedTypes">
+                    <entry key="array-size" type="xint" value="0"/>
+                </config>
+            </config>
+        </config>
+        <entry key="mergeJoinColumns" type="xboolean" value="false"/>
+        <entry key="duplicateHandling" type="xstring" value="APPEND_SUFFIX"/>
+        <entry key="suffix" type="xstring" value=" (Right)"/>
+        <entry key="outputUnmatchedRowsToSeparatePorts" type="xboolean" value="false"/>
+        <entry key="rowKeyFactory" type="xstring" value="CONCATENATE"/>
+        <entry key="rowKeySeparator" type="xstring" value="_"/>
+        <entry key="outputRowOrder" type="xstring" value="ARBITRARY"/>
+        <entry key="maxOpenFiles" type="xint" value="200"/>
+        <entry key="enableHiliting" type="xboolean" value="false"/>
+    </config>
+    <config key="variables"/>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="IDLE"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.preproc.joiner3.Joiner3NodeFactory"/>
+    <entry key="node-name" type="xstring" value="Joiner"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.12.0.v202606261225"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.12.0.v202606261225"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Joiner"/>
+    <entry key="hasContent" type="xboolean" value="false"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+        </config>
+        <config key="port_2">
+            <entry key="index" type="xint" value="2"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+        </config>
+        <config key="port_3">
+            <entry key="index" type="xint" value="3"/>
+            <entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" isnull="true" value=""/>
+    </config>
+</config>

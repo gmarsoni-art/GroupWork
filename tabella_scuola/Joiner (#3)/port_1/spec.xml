@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
     <entry key="spec_name" type="xstring" value="default"/>
-    <entry key="number_columns" type="xint" value="36"/>
+    <entry key="number_columns" type="xint" value="35"/>
     <config key="column_spec_0">
         <entry key="column_name" type="xstring" value="cod_scuola"/>
         <config key="element_names">
@@ -576,18 +576,6 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_24">
-        <entry key="column_name" type="xstring" value="cod_scuola (Right)"/>
-        <config key="element_names">
-            <entry key="array-size" type="xint" value="0"/>
-        </config>
-        <config key="column_type">
-            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
-        </config>
-        <config key="column_domain"/>
-        <config key="column_properties"/>
-        <config key="meta_data"/>
-    </config>
-    <config key="column_spec_25">
         <entry key="column_name" type="xstring" value="tasso_precariato_docenti_pct"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -612,7 +600,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_26">
+    <config key="column_spec_25">
         <entry key="column_name" type="xstring" value="pct_tempo_indeterminato"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -637,7 +625,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_27">
+    <config key="column_spec_26">
         <entry key="column_name" type="xstring" value="fasce_eta_tempo_determinato"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -649,7 +637,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_28">
+    <config key="column_spec_27">
         <entry key="column_name" type="xstring" value="fasce_eta_tempo_indeterminato"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -661,7 +649,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_29">
+    <config key="column_spec_28">
         <entry key="column_name" type="xstring" value="anno_scolastico_personale"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -683,7 +671,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_30">
+    <config key="column_spec_29">
         <entry key="column_name" type="xstring" value="trasferiti_pct_scuola"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -708,7 +696,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_31">
+    <config key="column_spec_30">
         <entry key="column_name" type="xstring" value="trasferiti_pct_regione"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -733,7 +721,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_32">
+    <config key="column_spec_31">
         <entry key="column_name" type="xstring" value="trasferiti_pct_italia"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -758,7 +746,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_33">
+    <config key="column_spec_32">
         <entry key="column_name" type="xstring" value="pensionati_pct_scuola"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -783,7 +771,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_34">
+    <config key="column_spec_33">
         <entry key="column_name" type="xstring" value="pensionati_pct_regione"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -808,7 +796,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_35">
+    <config key="column_spec_34">
         <entry key="column_name" type="xstring" value="pensionati_pct_italia"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>

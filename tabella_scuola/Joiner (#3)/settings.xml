@@ -78,22 +78,22 @@
             </config>
             <config key="manualFilter">
                 <config key="manuallySelected">
-                    <entry key="array-size" type="xint" value="12"/>
-                    <entry key="0" type="xstring" value="cod_scuola"/>
-                    <entry key="1" type="xstring" value="tasso_precariato_docenti_pct"/>
-                    <entry key="2" type="xstring" value="pct_tempo_indeterminato"/>
-                    <entry key="3" type="xstring" value="fasce_eta_tempo_determinato"/>
-                    <entry key="4" type="xstring" value="fasce_eta_tempo_indeterminato"/>
-                    <entry key="5" type="xstring" value="anno_scolastico_personale"/>
-                    <entry key="6" type="xstring" value="trasferiti_pct_scuola"/>
-                    <entry key="7" type="xstring" value="trasferiti_pct_regione"/>
-                    <entry key="8" type="xstring" value="trasferiti_pct_italia"/>
-                    <entry key="9" type="xstring" value="pensionati_pct_scuola"/>
-                    <entry key="10" type="xstring" value="pensionati_pct_regione"/>
-                    <entry key="11" type="xstring" value="pensionati_pct_italia"/>
+                    <entry key="array-size" type="xint" value="11"/>
+                    <entry key="0" type="xstring" value="tasso_precariato_docenti_pct"/>
+                    <entry key="1" type="xstring" value="pct_tempo_indeterminato"/>
+                    <entry key="2" type="xstring" value="fasce_eta_tempo_determinato"/>
+                    <entry key="3" type="xstring" value="fasce_eta_tempo_indeterminato"/>
+                    <entry key="4" type="xstring" value="anno_scolastico_personale"/>
+                    <entry key="5" type="xstring" value="trasferiti_pct_scuola"/>
+                    <entry key="6" type="xstring" value="trasferiti_pct_regione"/>
+                    <entry key="7" type="xstring" value="trasferiti_pct_italia"/>
+                    <entry key="8" type="xstring" value="pensionati_pct_scuola"/>
+                    <entry key="9" type="xstring" value="pensionati_pct_regione"/>
+                    <entry key="10" type="xstring" value="pensionati_pct_italia"/>
                 </config>
                 <config key="manuallyDeselected">
-                    <entry key="array-size" type="xint" value="0"/>
+                    <entry key="array-size" type="xint" value="1"/>
+                    <entry key="0" type="xstring" value="cod_scuola"/>
                 </config>
                 <entry key="includeUnknownColumns" type="xboolean" value="true"/>
             </config>
@@ -135,7 +135,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 2364, Cols: 36"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 2364, Cols: 35"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
         <config key="port_2">
@@ -159,6 +159,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="3729db12-bb08-4e06-a0c3-04e2d3e3498b"/>
+        <entry key="file_store_id" type="xstring" value="088be62c-b1bf-4ae7-8e0a-25cb17523066"/>
     </config>
 </config>
